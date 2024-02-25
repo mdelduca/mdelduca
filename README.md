@@ -1,5 +1,5 @@
 ### Hi there 👋
-Motivated and enthusiastic computer engineering student with 5+ years of experience in 10 different programming languages, including Python, C++, C, and Java. Experienced in leading engineering design teams of various sizes in unique computer, electrical, and mechanical engineering projects. I particularly enjoy exploring the intersect between computer software and hardware, as well as the continuing development of artificial intelligence and machine learning. 
+I am a motivated and enthusiastic computer engineering student with 5+ years of experience in 10 different programming languages, including Python, C++, C, and Java. I have experience leading engineering design teams of various sizes in unique computer, electrical, and mechanical engineering projects. I particularly enjoy exploring the intersect between computer software and hardware, as well as the continuing development of artificial intelligence and machine learning. 
 
 Currently pursuing a Major in Computer Engineering with a Minor in Artificial Intelligence Engineering. Specializing in Computer Software, Computer Hardware, and Artificial Intelligence.
 <!--
